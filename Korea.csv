@@ -1,0 +1,49 @@
+Samsung Maestro ,\b(540447\d{10})\b
+Woori Maestro ,\b(552220\d{10})\b
+Hyundai Maestro ,\b(552290\d{10})\b
+Hyundai Maestro ,\b(552377\d{10})\b
+Shinhan Maestro ,\b(552576\d{10})\b
+KB Maestro ,\b(554346\d{10})\b
+KB Maestro ,\b(558526\d{10})\b
+UnionPay,\b(606052\d{10})\b
+BC UnionPay,\b(6210\d{12})\b
+Lotte UnionPay,\b(625104\d{10})\b
+BC UnionPay,\b(6253\d{10})\b
+KB UnionPay,\b(625804\d{10})\b
+Lotte UnionPay,\b(625904\d{10})\b
+BC global,\b(6541\d{12})\b
+BC global,\b(6556\d{12})\b
+City,\b(940010\d{10})\b
+suhyup,\b(940701\d{10})\b
+suhyup,\b(940702\d{10})\b
+Lotte,\b(940915\d{10})\b
+Lotte,\b(940951\d{10})\b
+Shinhan,\b(941061\d{10})\b
+Shinhan,\b(941083\d{10})\b
+Samsung,\b(941090\d{10})\b
+BC,\b(9410\d{12})\b
+Shinhan,\b(941161\d{10})\b
+Shinhan,\b(942061\d{10})\b
+Samsung,\b(942090\d{10})\b
+BC,\b(9420\d{12})\b
+BC,\b(9430\d{12})\b
+KB,\b(943645\d{10})\b
+BC,\b(9440\d{12})\b
+NH,\b(944116\d{10})\b
+Woori,\b(944520\d{10})\b
+KB,\b(944547\d{10})\b
+KB,\b(944542\d{10})\b
+KB,\b(944541\d{10})\b
+BC,\b(9461\d{12})\b
+BC,\b(9430\d{12})\b
+Hyundai,\b(949013\d{10})\b
+Hyundai,\b(949028\d{10})\b
+Gwangju,\b(953003\d{10})\b
+Debit_Woori,\b(5898\d{12})\b
+Debit_KB,\b(502123\d{10})\b
+Debit_Hana,\b(502928\d{10})\b
+Debit_City,\b(588644\d{10})\b
+Debit_BC1,\b(6048\d{12})\b
+Debit_Shinhan,\b(606045\d{10})\b
+Debit_BC2,\b(6360\d{12})\b
+Debit_Woori,\b(636189\d{10})\b
