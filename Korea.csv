@@ -1,3 +1,41 @@
+Hana Visa,\b(457047\d{10})\b
+KB Visa,\b(457972\d{10})\b
+KB Visa,\b(457973\d{10})\b
+Samsung Visa,\b(458532\d{10})\b
+Hana Visa,\b(459900\d{10})\b
+Hana Visa,\b(459930\d{10})\b
+Hana Visa,\b(459950\d{10})\b
+Gwangju Visa,\b(459952\d{10})\b
+City Visa,\b(462890\d{10})\b
+Jeju Visa,\b(463916\d{10})\b
+Lotte Visa,\b(464959\d{10})\b
+Shinhan Visa,\b(465887\d{10})\b
+suhyup Visa,\b(465889\d{10})\b
+Samsung Visa,\b(470587\d{10})\b
+Samsung Visa,\b(470588\d{10})\b
+City Visa,\b(474360\d{10})\b
+NH Visa,\b(485479\d{10})\b
+Woori Visa,\b(490220\d{10})\b
+BC Visa,\b(4906\d{12})\b
+KB Maestro ,\b(502123\d{10})\b
+Shinhan Maestro ,\b(510737\d{10})\b
+Lotte Maestro,\b(512462\d{10})\b
+City Maestro,\b(514876\d{10})\b
+Shinhan Maestro ,\b(515594\d{10})\b
+HanaSK Maestro,\b(516574\d{10})\b
+Hana Maestro,\b(523830\d{10})\b
+NH Maestro,\b(524040\d{10})\b
+NH Maestro,\b(524041\d{10})\b
+City Maestro,\b(524144\d{10})\b
+Hyundai Maestro ,\b(524333\d{10})\b
+Hana Maestro,\b(524335\d{10})\b
+Hana Maestro,\b(524353\d{10})\b
+Samsung Maestro ,\b(531080\d{10})\b
+HanaSK Maestro,\b(531838\d{10})\b
+Woori Maestro,\b(535020\d{10})\b
+Woori BC Maestro,\b(538720\d{10})\b
+BC Maestro,\b(5388\d{12})\b
+Woori Maestro ,\b(538920\d{10})\b
 Samsung Maestro ,\b(540447\d{10})\b
 Woori Maestro ,\b(552220\d{10})\b
 Hyundai Maestro ,\b(552290\d{10})\b
