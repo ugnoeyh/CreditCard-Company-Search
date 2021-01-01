@@ -1,3 +1,65 @@
+BC JCB,b(3560\d{12})\b
+Shinhan JCB,b(356296\d{10})\b
+Shinhan JCB,b(356297\d{10})\b
+NH JCB\ ,b(356316\d{10})\b
+NH JCB\ ,b(356317\d{10})\b
+BC JCB\ ,b(3565\d{12})\b
+BC JCB\ ,b(3563\d{12})\b
+Hana JCB\ ,b(356800\d{10})\b
+Hana JCB\ ,b(356801\d{10})\b
+Hana JCB\ ,b(356802\d{10})\b
+Hana JCB\ ,b(356803\d{10})\b
+Woori JCB\ ,b(356820\d{10})\b
+Shinhan JCB ,\b(356900\d{10})\b
+Shinhan JCB ,\b(356901\d{10})\b
+Shinhan JCB ,\b(356902\d{10})\b
+KB JCB ,\b(356910\d{10})\b
+KB JCB ,\b(356911\d{10})\b
+KB JCB ,\b(356912\d{10})\b
+Lotte JCB ,\b(356916\d{10})\b
+Lotte JCB ,\b(356915\d{10})\b
+Lotte JCB ,\b(356914\d{10})\b
+Hyundai DinersClub ,\b(3616\d{12})\b
+American,\b(371001\d{10})\b
+American,\b(371002\d{10})\b
+American,\b(371003\d{10})\b
+American,\b(374722\d{10})\b
+American,\b(374723\d{10})\b
+American,\b(374724\d{10})\b
+KB American,\b(375144\d{10})\b
+Samsung American,\b(375987\d{10})\b
+Lotte American,\b(376272\d{10})\b
+Lotte American,\b(376277\d{10})\b
+KB American,\b(376364\d{10})\b
+KB American,\b(376364\d{10})\b
+Lotte American,\b(377973\d{10})\b
+Shinhan American,\b(377981\d{10})\b
+Shinhan American,\b(377982\d{10})\b
+Samsung American,\b(377989\d{10})\b
+Samsung American,\b(379183\d{10})\b
+HanaSK American,\b(379192\d{10})\b
+HanaSK American,\b(379193\d{10})\b
+Signature Visa,\b(4450\d{12})\b
+HanaSK Visa,\b(402367\d{10})\b
+Hyundai Visa,\b(402857\d{10})\b
+Shinhan Visa,\b(404678\d{10})\b
+BC Visa,\b(404825\d{10})\b
+Shinhan Visa,\b(405753\d{10})\b
+City Visa,\b(406357\d{10})\b
+City Visa,\b(410109\d{10})\b
+Hana Visa,\b(411900\d{10})\b
+Hana Visa,\b(411904\d{10})\b
+Hana Visa,\b(411905\d{10})\b
+HanaSK Visa,\b(414025\d{10})\b
+Hyundai Visa,\b(418123\d{10})\b
+Hana Visa,\b(418236\d{10})\b
+suhyup Visa,\b(421417\d{10})\b
+suhyup Visa,\b(421418\d{10})\b
+Woori Visa,\b(421420\d{10})\b
+Lotte Visa,\b(421468\d{10})\b
+suhyup Visa,\b(422190\d{10})\b
+City Visa,\b(422727\d{10})\b
+suhyup Visa,\b(432445\d{10})\b
 Hyundai Visa,\b(433028\d{10})\b
 Shinhan Visa,\b(434975\d{10})\b
 Shinhan Visa,\b(436420\d{10})\b
