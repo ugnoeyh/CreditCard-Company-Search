@@ -1,15 +1,15 @@
-BC JCB,b(3560\d{12})\b
-Shinhan JCB,b(356296\d{10})\b
-Shinhan JCB,b(356297\d{10})\b
-NH JCB\ ,b(356316\d{10})\b
-NH JCB\ ,b(356317\d{10})\b
-BC JCB\ ,b(3565\d{12})\b
-BC JCB\ ,b(3563\d{12})\b
-Hana JCB\ ,b(356800\d{10})\b
-Hana JCB\ ,b(356801\d{10})\b
-Hana JCB\ ,b(356802\d{10})\b
-Hana JCB\ ,b(356803\d{10})\b
-Woori JCB\ ,b(356820\d{10})\b
+BC JCB,\b(3560\d{12})\b
+Shinhan JCB,\b(356296\d{10})\b
+Shinhan JCB,\b(356297\d{10})\b
+NH JCB ,\b(356316\d{10})\b
+NH JCB ,\b(356317\d{10})\b
+BC JCB ,\b(3565\d{12})\b
+BC JCB ,\b(3563\d{12})\b
+Hana JCB ,\b(356800\d{10})\b
+Hana JCB ,\b(356801\d{10})\b
+Hana JCB ,\b(356802\d{10})\b
+Hana JCB ,\b(356803\d{10})\b
+Woori JCB ,\b(356820\d{10})\b
 Shinhan JCB ,\b(356900\d{10})\b
 Shinhan JCB ,\b(356901\d{10})\b
 Shinhan JCB ,\b(356902\d{10})\b
